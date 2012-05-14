@@ -15,7 +15,7 @@ import org.junit.Test;
  *
  */
 public class AdsAccountManagerTest {
-    private static final String NEW_PASSWORD = "adspwd*6";
+    private static final String NEW_PASSWORD = "adspwd*7";
 
 
     @Test
