@@ -1,21 +1,19 @@
 package net.codjo.ads;
-import static net.codjo.ads.AdsTest.LDAP_URL;
-import static net.codjo.ads.AdsTest.PASSWORD;
-import static net.codjo.ads.AdsTest.SERVICE_SECURITY_LEVEL;
-import static net.codjo.ads.AdsTest.SSL_URL;
-
-import de.dit.ads.auth.SecurityLevelException;
 import de.dit.ads.auth.UserAuthenticationException;
 import de.dit.ads.auth.UserToken;
 import de.dit.ads.auth.ldap.Authentication;
 import org.junit.Ignore;
 import org.junit.Test;
 
+import static net.codjo.ads.AdsTest.LDAP_URL;
+import static net.codjo.ads.AdsTest.PASSWORD;
+import static net.codjo.ads.AdsTest.SSL_URL;
+
 /**
  *
  */
 public class AdsAccountManagerTest {
-    private static final String NEW_PASSWORD = "adspwd*8";
+    private static final String NEW_PASSWORD = "adspwd*9";
 
 
     @Test
