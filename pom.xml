@@ -13,7 +13,7 @@
     </parent>
     <groupId>net.codjo.ads</groupId>
     <artifactId>codjo-ads</artifactId>
-    <version>1.18</version>
+    <version>1.19-SNAPSHOT</version>
     <dependencies>
 
         <!-- ADS -->
