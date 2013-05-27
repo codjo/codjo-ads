@@ -7,7 +7,7 @@ public interface AdsTest {
     String LDAP_URL = "ldap://AFYTD201.tagi2-d.net:40389";
     String SSL_URL = "ldap://AFYTD201.tagi2-d.net:40636";
 
-    String ADSBV_JNLP_URL = "http://vildapbv.vi.intradit.net/ADSBV/adsbvgui.jnlp";
+    String ADSBV_JNLP_URL = "http://afxia012.itd.intradit.net:81/ADSBV_axis2/adsbvgui.jnlp";
 
     String PROJECT_NAME = "FrFwk1";
     String APPLICATION_USER_NICK_NAME = "FrFwk1Appl";
