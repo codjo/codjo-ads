@@ -13,7 +13,7 @@ import static net.codjo.ads.AdsTest.SSL_URL;
  *
  */
 public class AdsAccountManagerTest {
-    private static final String NEW_PASSWORD = "adspwd*13";
+    private static final String NEW_PASSWORD = "adspwd*14";
 
 
     @Test
