@@ -13,7 +13,7 @@ import static net.codjo.ads.AdsTest.SSL_URL;
  *
  */
 public class AdsAccountManagerTest {
-    private static final String NEW_PASSWORD = "adspwd*16";
+    private static final String NEW_PASSWORD = "adspwd*17";
 
 
     @Test
@@ -68,5 +68,4 @@ public class AdsAccountManagerTest {
             System.out.println("compte bloqué " + login);
         }
     }
-
 }
